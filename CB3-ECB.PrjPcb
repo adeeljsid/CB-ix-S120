@@ -845,166 +845,170 @@ DocumentPath=Project Outputs for CB3-ECB\CB3-ECB.xlsx
 DItemRevisionGUID=
 
 [GeneratedDocument2]
-DocumentPath=Project Outputs for CB3-ECB\CB3-ECB_PCB.EXTREP
+DocumentPath=Project Outputs for CB3-ECB\CB3-ECB_consolidated.xlsx
 DItemRevisionGUID=
 
 [GeneratedDocument3]
-DocumentPath=Project Outputs for CB3-ECB\CB3-ECB_PCB.REP
+DocumentPath=Project Outputs for CB3-ECB\CB3-ECB_PCB.EXTREP
 DItemRevisionGUID=
 
 [GeneratedDocument4]
-DocumentPath=Project Outputs for CB3-ECB\CB3-ECB_PCB_Board.gbr
+DocumentPath=Project Outputs for CB3-ECB\CB3-ECB_PCB.REP
 DItemRevisionGUID=
 
 [GeneratedDocument5]
-DocumentPath=Project Outputs for CB3-ECB\CB3-ECB_PCB_Bottom_3D_Body.gbr
+DocumentPath=Project Outputs for CB3-ECB\CB3-ECB_PCB_Board.gbr
 DItemRevisionGUID=
 
 [GeneratedDocument6]
-DocumentPath=Project Outputs for CB3-ECB\CB3-ECB_PCB_Bottom_Assembly.gbr
+DocumentPath=Project Outputs for CB3-ECB\CB3-ECB_PCB_Bottom_3D_Body.gbr
 DItemRevisionGUID=
 
 [GeneratedDocument7]
-DocumentPath=Project Outputs for CB3-ECB\CB3-ECB_PCB_Bottom_Component_Center.gbr
+DocumentPath=Project Outputs for CB3-ECB\CB3-ECB_PCB_Bottom_Assembly.gbr
 DItemRevisionGUID=
 
 [GeneratedDocument8]
-DocumentPath=Project Outputs for CB3-ECB\CB3-ECB_PCB_Bottom_Component_Outline.gbr
+DocumentPath=Project Outputs for CB3-ECB\CB3-ECB_PCB_Bottom_Component_Center.gbr
 DItemRevisionGUID=
 
 [GeneratedDocument9]
-DocumentPath=Project Outputs for CB3-ECB\CB3-ECB_PCB_Bottom_Courtyard.gbr
+DocumentPath=Project Outputs for CB3-ECB\CB3-ECB_PCB_Bottom_Component_Outline.gbr
 DItemRevisionGUID=
 
 [GeneratedDocument10]
-DocumentPath=Project Outputs for CB3-ECB\CB3-ECB_PCB_Bottom_Designator.gbr
+DocumentPath=Project Outputs for CB3-ECB\CB3-ECB_PCB_Bottom_Courtyard.gbr
 DItemRevisionGUID=
 
 [GeneratedDocument11]
-DocumentPath=Project Outputs for CB3-ECB\CB3-ECB_PCB_Copper_Signal_1.gbr
+DocumentPath=Project Outputs for CB3-ECB\CB3-ECB_PCB_Bottom_Designator.gbr
 DItemRevisionGUID=
 
 [GeneratedDocument12]
-DocumentPath=Project Outputs for CB3-ECB\CB3-ECB_PCB_Copper_Signal_2.gbr
+DocumentPath=Project Outputs for CB3-ECB\CB3-ECB_PCB_Copper_Signal_1.gbr
 DItemRevisionGUID=
 
 [GeneratedDocument13]
-DocumentPath=Project Outputs for CB3-ECB\CB3-ECB_PCB_Copper_Signal_Bot.gbr
+DocumentPath=Project Outputs for CB3-ECB\CB3-ECB_PCB_Copper_Signal_2.gbr
 DItemRevisionGUID=
 
 [GeneratedDocument14]
-DocumentPath=Project Outputs for CB3-ECB\CB3-ECB_PCB_Copper_Signal_Top.gbr
+DocumentPath=Project Outputs for CB3-ECB\CB3-ECB_PCB_Copper_Signal_Bot.gbr
 DItemRevisionGUID=
 
 [GeneratedDocument15]
-DocumentPath=Project Outputs for CB3-ECB\CB3-ECB_PCB_Dimensions.gbr
+DocumentPath=Project Outputs for CB3-ECB\CB3-ECB_PCB_Copper_Signal_Top.gbr
 DItemRevisionGUID=
 
 [GeneratedDocument16]
-DocumentPath=Project Outputs for CB3-ECB\CB3-ECB_PCB_Drawing_1.gbr
+DocumentPath=Project Outputs for CB3-ECB\CB3-ECB_PCB_Dimensions.gbr
 DItemRevisionGUID=
 
 [GeneratedDocument17]
-DocumentPath=Project Outputs for CB3-ECB\CB3-ECB_PCB_Drillmap_1.gbr
+DocumentPath=Project Outputs for CB3-ECB\CB3-ECB_PCB_Drawing_1.gbr
 DItemRevisionGUID=
 
 [GeneratedDocument18]
-DocumentPath=Project Outputs for CB3-ECB\CB3-ECB_PCB_Keep-out.gbr
+DocumentPath=Project Outputs for CB3-ECB\CB3-ECB_PCB_Drillmap_1.gbr
 DItemRevisionGUID=
 
 [GeneratedDocument19]
-DocumentPath=Project Outputs for CB3-ECB\CB3-ECB_PCB_Legend_Bot.gbr
+DocumentPath=Project Outputs for CB3-ECB\CB3-ECB_PCB_Keep-out.gbr
 DItemRevisionGUID=
 
 [GeneratedDocument20]
-DocumentPath=Project Outputs for CB3-ECB\CB3-ECB_PCB_Legend_Top.gbr
+DocumentPath=Project Outputs for CB3-ECB\CB3-ECB_PCB_Legend_Bot.gbr
 DItemRevisionGUID=
 
 [GeneratedDocument21]
-DocumentPath=Project Outputs for CB3-ECB\CB3-ECB_PCB_Mechanical_1.gbr
+DocumentPath=Project Outputs for CB3-ECB\CB3-ECB_PCB_Legend_Top.gbr
 DItemRevisionGUID=
 
 [GeneratedDocument22]
-DocumentPath=Project Outputs for CB3-ECB\CB3-ECB_PCB_Mechanical_13.gbr
+DocumentPath=Project Outputs for CB3-ECB\CB3-ECB_PCB_Mechanical_1.gbr
 DItemRevisionGUID=
 
 [GeneratedDocument23]
-DocumentPath=Project Outputs for CB3-ECB\CB3-ECB_PCB_Mechanical_15.gbr
+DocumentPath=Project Outputs for CB3-ECB\CB3-ECB_PCB_Mechanical_13.gbr
 DItemRevisionGUID=
 
 [GeneratedDocument24]
-DocumentPath=Project Outputs for CB3-ECB\CB3-ECB_PCB_Mechanical_20.gbr
+DocumentPath=Project Outputs for CB3-ECB\CB3-ECB_PCB_Mechanical_15.gbr
 DItemRevisionGUID=
 
 [GeneratedDocument25]
-DocumentPath=Project Outputs for CB3-ECB\CB3-ECB_PCB_NPTH_Drill.gbr
+DocumentPath=Project Outputs for CB3-ECB\CB3-ECB_PCB_Mechanical_20.gbr
 DItemRevisionGUID=
 
 [GeneratedDocument26]
-DocumentPath=Project Outputs for CB3-ECB\CB3-ECB_PCB_Pads_Bot.gbr
+DocumentPath=Project Outputs for CB3-ECB\CB3-ECB_PCB_NPTH_Drill.gbr
 DItemRevisionGUID=
 
 [GeneratedDocument27]
-DocumentPath=Project Outputs for CB3-ECB\CB3-ECB_PCB_Pads_Top.gbr
+DocumentPath=Project Outputs for CB3-ECB\CB3-ECB_PCB_Pads_Bot.gbr
 DItemRevisionGUID=
 
 [GeneratedDocument28]
-DocumentPath=Project Outputs for CB3-ECB\CB3-ECB_PCB_Paste_Bot.gbr
+DocumentPath=Project Outputs for CB3-ECB\CB3-ECB_PCB_Pads_Top.gbr
 DItemRevisionGUID=
 
 [GeneratedDocument29]
-DocumentPath=Project Outputs for CB3-ECB\CB3-ECB_PCB_Paste_Top.gbr
+DocumentPath=Project Outputs for CB3-ECB\CB3-ECB_PCB_Paste_Bot.gbr
 DItemRevisionGUID=
 
 [GeneratedDocument30]
-DocumentPath=Project Outputs for CB3-ECB\CB3-ECB_PCB_Profile.gbr
+DocumentPath=Project Outputs for CB3-ECB\CB3-ECB_PCB_Paste_Top.gbr
 DItemRevisionGUID=
 
 [GeneratedDocument31]
-DocumentPath=Project Outputs for CB3-ECB\CB3-ECB_PCB_PTH_Drill.gbr
+DocumentPath=Project Outputs for CB3-ECB\CB3-ECB_PCB_Profile.gbr
 DItemRevisionGUID=
 
 [GeneratedDocument32]
-DocumentPath=Project Outputs for CB3-ECB\CB3-ECB_PCB_Soldermask_Bot.gbr
+DocumentPath=Project Outputs for CB3-ECB\CB3-ECB_PCB_PTH_Drill.gbr
 DItemRevisionGUID=
 
 [GeneratedDocument33]
-DocumentPath=Project Outputs for CB3-ECB\CB3-ECB_PCB_Soldermask_Top.gbr
+DocumentPath=Project Outputs for CB3-ECB\CB3-ECB_PCB_Soldermask_Bot.gbr
 DItemRevisionGUID=
 
 [GeneratedDocument34]
-DocumentPath=Project Outputs for CB3-ECB\CB3-ECB_PCB_Top_3D_Body.gbr
+DocumentPath=Project Outputs for CB3-ECB\CB3-ECB_PCB_Soldermask_Top.gbr
 DItemRevisionGUID=
 
 [GeneratedDocument35]
-DocumentPath=Project Outputs for CB3-ECB\CB3-ECB_PCB_Top_Assembly.gbr
+DocumentPath=Project Outputs for CB3-ECB\CB3-ECB_PCB_Top_3D_Body.gbr
 DItemRevisionGUID=
 
 [GeneratedDocument36]
-DocumentPath=Project Outputs for CB3-ECB\CB3-ECB_PCB_Top_Component_Center.gbr
+DocumentPath=Project Outputs for CB3-ECB\CB3-ECB_PCB_Top_Assembly.gbr
 DItemRevisionGUID=
 
 [GeneratedDocument37]
-DocumentPath=Project Outputs for CB3-ECB\CB3-ECB_PCB_Top_Component_Outline.gbr
+DocumentPath=Project Outputs for CB3-ECB\CB3-ECB_PCB_Top_Component_Center.gbr
 DItemRevisionGUID=
 
 [GeneratedDocument38]
-DocumentPath=Project Outputs for CB3-ECB\CB3-ECB_PCB_Top_Courtyard.gbr
+DocumentPath=Project Outputs for CB3-ECB\CB3-ECB_PCB_Top_Component_Outline.gbr
 DItemRevisionGUID=
 
 [GeneratedDocument39]
-DocumentPath=Project Outputs for CB3-ECB\CB3-ECB_PCB_Top_Designator.gbr
+DocumentPath=Project Outputs for CB3-ECB\CB3-ECB_PCB_Top_Courtyard.gbr
 DItemRevisionGUID=
 
 [GeneratedDocument40]
-DocumentPath=Project Outputs for CB3-ECB\CB3-ECB_PCB_Top_Overlay_(not_used).gbr
+DocumentPath=Project Outputs for CB3-ECB\CB3-ECB_PCB_Top_Designator.gbr
 DItemRevisionGUID=
 
 [GeneratedDocument41]
-DocumentPath=Project Outputs for CB3-ECB\Design Rule Check - CB3-ECB_PCB.html
+DocumentPath=Project Outputs for CB3-ECB\CB3-ECB_PCB_Top_Overlay_(not_used).gbr
 DItemRevisionGUID=
 
 [GeneratedDocument42]
+DocumentPath=Project Outputs for CB3-ECB\Design Rule Check - CB3-ECB_PCB.html
+DItemRevisionGUID=
+
+[GeneratedDocument43]
 DocumentPath=Project Outputs for CB3-ECB\Pick Place for CB3-ECB_PCB.csv
 DItemRevisionGUID=
 
@@ -1242,7 +1246,7 @@ OutputName1=Composite Drawing
 OutputDocumentPath1=
 OutputVariantName1=[No Variations]
 OutputDefault1=0
-PageOptions1=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.20|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=15|PrintQuality=600|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4 (210 x 297 mm)|PaperIndex=9
+PageOptions1=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.25|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=15|PrintQuality=600|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4 (210 x 297 mm)|PaperIndex=9
 Configuration1_Name1=OutputConfigurationParameter1
 Configuration1_Item1=DesignatorDisplayMode=Physical|PrintArea=DesignExtent|PrintAreaLowerLeftCornerX=0|PrintAreaLowerLeftCornerY=0|PrintAreaUpperRightCornerX=0|PrintAreaUpperRightCornerY=0|Record=PcbPrintView|DocumentPath=C:\Users\Public\Documents\Altium\CB-ix-S120\CB3-ECB_PCB.PcbDoc
 Configuration1_Name2=OutputConfigurationParameter2
@@ -1572,19 +1576,19 @@ Configuration1_Item1=CaptionAsName
 Configuration1_Name2=ForceUpdateSettings
 Configuration1_Item2=False
 Configuration1_Name3=General
-Configuration1_Item3=OpenExported=False|AddToProject=True|ReportBOMViolationsInMessages=False|ForceFit=False|NotFitted=False|Database=False|DatabasePriority=False|IncludePcbData=False|IncludeVaultData=True|IncludeCloudData=False|IncludeDocumentData=False|IncludeAlternatives=True|ShowExportOptions=True|TemplateFilename=|TemplateVaultGuid=|TemplateItemGuid=|TemplateRevisionGuid=|BatchMode=5|FormWidth=1553|FormHeight=1007|SupplierProdQty=1|SupplierAutoQty=True|SupplierUseCachedPricing=False|SupplierCurrency=USD|SolutionsPerItem=1|SuppliersPerSolution=1|ViewType=1|UseDirectApi=True|BomSetName=
+Configuration1_Item3=OpenExported=False|AddToProject=True|ReportBOMViolationsInMessages=False|ForceFit=False|NotFitted=False|Database=False|DatabasePriority=False|IncludePcbData=False|IncludeVaultData=False|IncludeCloudData=False|IncludeDocumentData=False|IncludeAlternatives=True|ShowExportOptions=True|TemplateFilename=|TemplateVaultGuid=|TemplateItemGuid=|TemplateRevisionGuid=|BatchMode=5|FormWidth=1553|FormHeight=1007|SupplierProdQty=1|SupplierAutoQty=True|SupplierUseCachedPricing=False|SupplierCurrency=USD|SolutionsPerItem=1|SuppliersPerSolution=1|ViewType=0|UseDirectApi=True|BomSetName=
 Configuration1_Name4=GroupOrder
 Configuration1_Item4=
 Configuration1_Name5=SortOrder
-Configuration1_Item5=Designator=Up|Comment=Up
+Configuration1_Item5=Designator=Up
 Configuration1_Name6=VisibleOrder
-Configuration1_Item6=Comment=154|Description=242|Designator=234|Quantity=67|Manufacturer 1=102|Design Item ID=100|Manufacturer Part Number=100|Max Output Voltage=100|Power Rating=100|Voltage Rating=100|Number of Outputs=100|Number of Pins=100
+Configuration1_Item6=Comment=230|Description=250|Designator=124|Footprint=100|Quantity=67|Manufacturer 1=102|Manufacturer Part Number 1=169
 Configuration1_Name7=VisibleOrder_Base
-Configuration1_Item7=Comment=154|Description=242|Designator=234|Quantity=67|Manufacturer 1=102|Design Item ID=100|Manufacturer Part Number=100|Max Output Voltage=100|Power Rating=100|Voltage Rating=100|Number of Outputs=100|Number of Pins=100
+Configuration1_Item7=Comment=230|Description=250|Designator=124|Footprint=100|Quantity=67|Manufacturer 1=102|Manufacturer Part Number 1=169
 Configuration1_Name8=VisibleOrder_Consolidated
 Configuration1_Item8=Line #=54|Comment=100|Description=100|Designator=100|Revision ID=80|Revision Status=101|Quantity=67|Manufacturer 1=102|Manufacturer Part Number 1=169|Manufacturer Lifecycle 1=147|Supplier 1=75|Supplier Part Number 1=142|Supplier Unit Price 1=127|Supplier Subtotal 1=122|Quantity@Standard variant=135|Price@Standard variant=142
 Configuration1_Name9=VisibleOrder_Flat
-Configuration1_Item9=Line #=54|Comment=52|Description=82|Designator=80|Revision ID=80|Revision Status=101|Manufacturer 1=102|Manufacturer Part Number 1=169|Manufacturer Lifecycle 1=147|Supplier 1=75|Supplier Part Number 1=142|Supplier Unit Price 1=127|Supplier Subtotal 1=122
+Configuration1_Item9=Line #=100|Comment=100|Description=100|Designator=100|Revision ID=100|Revision Status=100|Manufacturer 1=102|Manufacturer Part Number 1=169|Manufacturer Lifecycle 1=147|Supplier 1=75|Supplier Part Number 1=142|Supplier Unit Price 1=127|Supplier Subtotal 1=122
 OutputType2=ComponentCrossReference
 OutputName2=Component Cross Reference Report
 OutputDocumentPath2=
